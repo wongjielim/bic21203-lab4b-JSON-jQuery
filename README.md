@@ -43,7 +43,3 @@ This project is developed as part of Lab 4b for the BIC21203 Web Development cou
 
 ### 6. Conclusion
 This lab provides practical experience in handling JSON data, retrieving information using JavaScript, and performing DOM manipulation using jQuery. It also helps develop a better understanding of client-side scripting and interactive web development.
-
-### 7. Author
-**Course:** BIC21203 Web Development  
-**Lab:** Lab 4b – Client-Side Scripting (JSON and jQuery)
