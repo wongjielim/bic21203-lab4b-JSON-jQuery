@@ -1,4 +1,4 @@
-# bic21203-lab4b-JSON-jQuery
+# BIC21203-lab4b-JSON-jQuery
 
 ## Client-Side Scripting (JSON and jQuery)
 
